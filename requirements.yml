@@ -1,0 +1,5 @@
+# run in shell or just run the code and it will automatically download the current dependencies
+# pip install -r requirements.yml
+# current dependencies:
+colorama==0.4.6
+openai==0.27.8
